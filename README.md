@@ -1,6 +1,12 @@
 
 ## Setup
 
+**requirements**
+
+- PHP 7.1.33
+- MySQL database 5.7.14
+
+
 ### Step 1 - Clone or Download
 
 ```
